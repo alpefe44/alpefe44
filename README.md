@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alp Efe Akpınar</h1>
+<h1 align="center">I'm Alp </h1>
 <p align="left">
 </p>
 
