@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alp Efe Akpınar</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">I'm Alp Efe Akpınar</h1>
 <p align="left">
 </p>
 
